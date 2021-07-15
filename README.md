@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working from **Home**
+- 🔭 I’m currently working from **:house:Home.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
