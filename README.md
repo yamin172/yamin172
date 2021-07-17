@@ -1,4 +1,6 @@
-<a href="#"><img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="40%"/></a>
+<p align="center">
+<a href="#"><img align="" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="30%"/></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yamin Miah</h1>
 <h3 align="center">I'm a passionate MERN Stack Developer from Bangladesh.</h3>
@@ -81,8 +83,12 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yamin172&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin172&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center">
+    <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yamin172&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a> 
+ </p>
+ <p align="center">
+  <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin172&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+ </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
