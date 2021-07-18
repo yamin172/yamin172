@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working from **:house:Home.**
 
-- 🌱 I’m currently learning **Express js and Redux.**
+- 🌱 I’m currently learning **Next js and Redux.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -23,8 +23,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="" > <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/> </a>
+    <a href="" > <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
+    <a href="" > <img src="https://img.icons8.com/fluent/48/000000/lunacy-new.png"/> </a>
+    <a href="" > <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
     <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -84,10 +87,10 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yamin172&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a> 
+    <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yamin172&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a> 
  </p>
  <p align="center">
-  <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin172&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin172&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
