@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working from **:house:Home.**
 
-- 🌱 I’m currently learning **Next js and Redux.**
+- 🌱 I’m currently learning **Typescript and Redux.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
