@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mdyamin.netlify.app)**
 
-- 📫 How to reach me **yaminmiah264@gmail.com**
+- 📫 How to reach me **jr.dev.yamin@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -90,7 +90,7 @@
     <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yamin172&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a> 
  </p>
  
- ## Most Uses Language's:
+ ## Most Uses Languages:
  
  <p align="center">
   <a href="https://github.com/yamin172/github-readme-stats"><img alt="Yamin Miah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin172&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
